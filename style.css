@@ -1,3 +1,7 @@
 clevertar-chat .ky-content {
-    background-image: url('https://imgur.com/HOlrwjH.jpg') !important;
+    background-image: url('https://i.imgur.com/vCR5Nd8.jpg') !important;
+}
+
+clevertar-chat .ky-bubble-block.ky-agent .ky-msg {
+    background: #ffffffad !important;
 }
